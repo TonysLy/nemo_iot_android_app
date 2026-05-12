@@ -1,0 +1,7 @@
+static const addPng = 'images/add.png';
+static const backPng = 'images/back.png';
+static const devicefirstPng = 'images/devicefirst.png';
+static const devicesecondPng = 'images/devicesecond.png';
+static const setPng = 'images/set.png';
+static const timePng = 'images/time.png';
+static const warnPng = 'images/warn.png';
