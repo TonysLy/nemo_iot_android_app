@@ -57,7 +57,7 @@ nimoble/
 进入项目目录：
 
 ```powershell
-cd E:\development_project\flutter_pro\nemo_iot_android_app\nimoble
+cd 项目根目录
 ```
 
 安装依赖：
